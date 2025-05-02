@@ -1,1 +1,1 @@
-The project was created to demonstrate how the non-preemptive version of the SJF algorithm works. It is mainly used for educational purposes to help students and learners understand how SJF operates by allowing them to input and analyze process scheduling behavior in real-time.
+The project was created to demonstrate how the non-preemptive version of the SJF algorithm works. It is mainly used for educational purposes to help students understand how SJF operates by allowing them to input and analyze process scheduling behavior in real-time.
